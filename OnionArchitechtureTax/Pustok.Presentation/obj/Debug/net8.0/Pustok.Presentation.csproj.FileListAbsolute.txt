@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\OnionArchitechtureTax\Pustok.Presentation\obj\Debug\net8.0\Pustok.Presentation.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\OnionArchitechtureTax\Pustok.Presentation\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\User\source\repos\OnionArchitechtureTax\Pustok.Presentation\obj\Debug\net8.0\Pustok.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\OnionArchitechtureTax\Pustok.Presentation\obj\Debug\net8.0\Pustok.Presentation.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OnionArchitechtureTax\Pustok.Presentation\obj\Debug\net8.0\Pustok.Presentation.AssemblyInfo.cs
+C:\Users\User\source\repos\OnionArchitechtureTax\Pustok.Presentation\obj\Debug\net8.0\Pustok.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OnionArchitechtureTax\Pustok.Presentation\obj\Debug\net8.0\Pustok.Presentation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\source\repos\OnionArchitechtureTax\Pustok.Presentation\obj\Debug\net8.0\Pustok.Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\OnionArchitechtureTax\Pustok.Presentation\obj\Debug\net8.0\Pustok.Presentation.sourcelink.json

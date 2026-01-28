@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D20AF30-759C-41FC-B5A9-2E56FC56DF68}|Pustok.Presentation\\Pustok.Presentation.csproj|c:\\users\\user\\source\\repos\\onionarchitechturetax\\pustok.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D20AF30-759C-41FC-B5A9-2E56FC56DF68}|Pustok.Presentation\\Pustok.Presentation.csproj|solutionrelative:pustok.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C875BAE-344B-49B4-9D0D-C29732514DC2}|Pustok.DataAccess\\Pustok.DataAccess.csproj|c:\\users\\user\\source\\repos\\onionarchitechturetax\\pustok.dataaccess\\serviceregistrations\\dataaccessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C875BAE-344B-49B4-9D0D-C29732514DC2}|Pustok.DataAccess\\Pustok.DataAccess.csproj|solutionrelative:pustok.dataaccess\\serviceregistrations\\dataaccessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C875BAE-344B-49B4-9D0D-C29732514DC2}|Pustok.DataAccess\\Pustok.DataAccess.csproj|c:\\users\\user\\source\\repos\\onionarchitechturetax\\pustok.dataaccess\\contexts\\pustokdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C875BAE-344B-49B4-9D0D-C29732514DC2}|Pustok.DataAccess\\Pustok.DataAccess.csproj|solutionrelative:pustok.dataaccess\\contexts\\pustokdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D20AF30-759C-41FC-B5A9-2E56FC56DF68}|Pustok.Presentation\\Pustok.Presentation.csproj|c:\\users\\user\\source\\repos\\onionarchitechturetax\\pustok.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D20AF30-759C-41FC-B5A9-2E56FC56DF68}|Pustok.Presentation\\Pustok.Presentation.csproj|solutionrelative:pustok.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C875BAE-344B-49B4-9D0D-C29732514DC2}|Pustok.DataAccess\\Pustok.DataAccess.csproj|c:\\users\\user\\source\\repos\\onionarchitechturetax\\pustok.dataaccess\\repositories\\implementations\\generic\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C875BAE-344B-49B4-9D0D-C29732514DC2}|Pustok.DataAccess\\Pustok.DataAccess.csproj|solutionrelative:pustok.dataaccess\\repositories\\implementations\\generic\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C875BAE-344B-49B4-9D0D-C29732514DC2}|Pustok.DataAccess\\Pustok.DataAccess.csproj|c:\\users\\user\\source\\repos\\onionarchitechturetax\\pustok.dataaccess\\repositories\\abstractions\\generic\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C875BAE-344B-49B4-9D0D-C29732514DC2}|Pustok.DataAccess\\Pustok.DataAccess.csproj|solutionrelative:pustok.dataaccess\\repositories\\abstractions\\generic\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D330D4C-C3B7-4034-B480-871C6650D773}|Pustok.Core\\Pustok.Core.csproj|c:\\users\\user\\source\\repos\\onionarchitechturetax\\pustok.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D330D4C-C3B7-4034-B480-871C6650D773}|Pustok.Core\\Pustok.Core.csproj|solutionrelative:pustok.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Pustok.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.Presentation\\appsettings.json",
+              "RelativeToolTip": "Pustok.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-28T07:28:04.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Pustok.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.Presentation\\Program.cs",
+              "RelativeToolTip": "Pustok.Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T07:25:57.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.DataAccess\\Repositories\\Implementations\\Generic\\Repository.cs",
+              "RelativeDocumentMoniker": "Pustok.DataAccess\\Repositories\\Implementations\\Generic\\Repository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.DataAccess\\Repositories\\Implementations\\Generic\\Repository.cs",
+              "RelativeToolTip": "Pustok.DataAccess\\Repositories\\Implementations\\Generic\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T07:24:55.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.DataAccess\\Repositories\\Abstractions\\Generic\\IRepository.cs",
+              "RelativeDocumentMoniker": "Pustok.DataAccess\\Repositories\\Abstractions\\Generic\\IRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.DataAccess\\Repositories\\Abstractions\\Generic\\IRepository.cs",
+              "RelativeToolTip": "Pustok.DataAccess\\Repositories\\Abstractions\\Generic\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T07:23:51.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataAccessServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.DataAccess\\ServiceRegistrations\\DataAccessServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Pustok.DataAccess\\ServiceRegistrations\\DataAccessServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.DataAccess\\ServiceRegistrations\\DataAccessServiceRegistration.cs",
+              "RelativeToolTip": "Pustok.DataAccess\\ServiceRegistrations\\DataAccessServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T07:22:17.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PustokDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.DataAccess\\Contexts\\PustokDBContext.cs",
+              "RelativeDocumentMoniker": "Pustok.DataAccess\\Contexts\\PustokDBContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.DataAccess\\Contexts\\PustokDBContext.cs",
+              "RelativeToolTip": "Pustok.DataAccess\\Contexts\\PustokDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T07:04:33.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Pustok.Core\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Pustok.Core\\Entities\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T06:16:55.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
