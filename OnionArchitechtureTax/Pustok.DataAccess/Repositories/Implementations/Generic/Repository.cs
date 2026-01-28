@@ -1,37 +1,51 @@
-﻿using Pustok.Core.Entities.Common;
-using Pustok.DataAccess.Repositories.Abstractions;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Microsoft.EntityFrameworkCore;
+using Pustok.Core.Entities.Common;
+using Pustok.DataAccess.Contexts;
 
 namespace Pustok.DataAccess.Repositories.Implementations;
 
-public class Repository<T> : IRepository<T> where T : BaseEntity
+public class Repository<T> : IRepository<T> where T : BaseEntity,new()
 {
-    public Task AddAsync(T entity)
+    private readonly PustokDBContext _context;
+
+    public Repository(PustokDBContext context)
     {
-        throw new NotImplementedException();
+        _context = context;
     }
 
-    public void Delete(T entity)
+    public DbSet<T> Table => _context.Set<T>();
+
+
+    public async Task<List<T>> GetAllAsync()
     {
-        throw new NotImplementedException();
+        var entities = await Table.ToListAsync();
+        return entities;
     }
 
-    public List<T> GetAll()
+    public async Task<T?> GetByIdAsync(int id)
     {
-        throw new NotImplementedException();
+        var entity = await Table.FindAsync(id);
+        return entity;
     }
 
-    public Task<T?> GetByIdAsync(Guid id)
+    public async Task AddAsync(T entity)
     {
-        throw new NotImplementedException();
+        await Table.AddAsync(entity);
     }
 
     public void Update(T entity)
     {
-        throw new NotImplementedException();
+        Table.Update(entity);
+    }
+
+    public void Delete(T entity)
+    {
+        Table.Remove(entity);
+    }
+
+    public async Task<int> SaveAsync()
+    {
+        int rows = await _context.SaveChangesAsync();
+        return rows;
     }
 }

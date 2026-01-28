@@ -1,15 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.IdentityModel.Protocols;
 using Pustok.DataAccess.Contexts;
-using Pustok.DataAccess.Repositories.Abstractions;
+using Pustok.DataAccess.Repositories;
 using Pustok.DataAccess.Repositories.Implementations;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Pustok.DataAccess.ServiceRegistrations;
 
@@ -22,5 +16,7 @@ public static class DataAccessServiceRegistration
             options.UseSqlServer(configuration.GetConnectionString("Default"));
         });
         services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+        services.AddScoped<IDepartmentRepository, DepartmentRepository>();
+        services.AddScoped<IEmployeeRepository, EmployeeRepository>();
     }
 }

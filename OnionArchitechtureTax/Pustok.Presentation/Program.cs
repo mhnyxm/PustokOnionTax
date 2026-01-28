@@ -1,7 +1,6 @@
 using Pustok.DataAccess.ServiceRegistrations;
+using Pustok.Business.ServiceRegistrations;
 var builder = WebApplication.CreateBuilder(args);
-
-
 
 builder.Services.AddControllers();
 
@@ -9,6 +8,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddDataAccessServices(builder.Configuration);
+builder.Services.AddBusinessServices(builder.Configuration);
 
 var app = builder.Build();
 

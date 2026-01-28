@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.Presentation\\Pustok.Presentation.csproj": {}
+    "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Presentation\\Pustok.Presentation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.Business\\Pustok.Business.csproj": {
+    "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Business\\Pustok.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.Business\\Pustok.Business.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Business\\Pustok.Business.csproj",
         "projectName": "Pustok.Business",
-        "projectPath": "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.Business\\Pustok.Business.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Business\\Pustok.Business.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.Business\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.DataAccess\\Pustok.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.DataAccess\\Pustok.DataAccess.csproj"
+              "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.DataAccess\\Pustok.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.DataAccess\\Pustok.DataAccess.csproj"
               }
             }
           }
@@ -53,6 +53,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -73,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.Core\\Pustok.Core.csproj": {
+    "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Core\\Pustok.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.Core\\Pustok.Core.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Core\\Pustok.Core.csproj",
         "projectName": "Pustok.Core",
-        "projectPath": "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.Core\\Pustok.Core.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Core\\Pustok.Core.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.Core\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -138,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.DataAccess\\Pustok.DataAccess.csproj": {
+    "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.DataAccess\\Pustok.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.DataAccess\\Pustok.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.DataAccess\\Pustok.DataAccess.csproj",
         "projectName": "Pustok.DataAccess",
-        "projectPath": "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.DataAccess\\Pustok.DataAccess.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.DataAccess\\Pustok.DataAccess.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -166,8 +172,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.Core\\Pustok.Core.csproj": {
-                "projectPath": "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.Core\\Pustok.Core.csproj"
+              "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Core\\Pustok.Core.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Core\\Pustok.Core.csproj"
               }
             }
           }
@@ -223,14 +229,14 @@
         }
       }
     },
-    "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.Presentation\\Pustok.Presentation.csproj": {
+    "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Presentation\\Pustok.Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.Presentation\\Pustok.Presentation.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Presentation\\Pustok.Presentation.csproj",
         "projectName": "Pustok.Presentation",
-        "projectPath": "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.Presentation\\Pustok.Presentation.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Presentation\\Pustok.Presentation.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.Presentation\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -251,8 +257,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.Business\\Pustok.Business.csproj": {
-                "projectPath": "C:\\Users\\User\\source\\repos\\OnionArchitechtureTax\\Pustok.Business\\Pustok.Business.csproj"
+              "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Business\\Pustok.Business.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Business\\Pustok.Business.csproj"
               }
             }
           }
@@ -273,6 +279,12 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.23, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"

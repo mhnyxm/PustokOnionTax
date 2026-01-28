@@ -1,18 +1,18 @@
-﻿using Pustok.Core.Entities.Common;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Microsoft.EntityFrameworkCore;
+using Pustok.Core.Entities.Common;
 
-namespace Pustok.DataAccess.Repositories.Abstractions;
+namespace Pustok.DataAccess.Repositories;
 
-public interface IRepository<T> where T : BaseEntity
+public interface IRepository<T> where T : BaseEntity, new()
 {
+    DbSet<T> Table { get; }
+
     Task AddAsync(T entity);
     void Update(T entity);
     void Delete(T entity);
 
-    List<T> GetAll();
-    Task<T?> GetByIdAsync(Guid id);
+    Task<List<T>> GetAllAsync();
+    Task<T?> GetByIdAsync(int id);
+
+    Task<int> SaveAsync();
 }

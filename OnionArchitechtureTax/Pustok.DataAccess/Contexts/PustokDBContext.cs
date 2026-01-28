@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Pustok.Core.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,7 +11,9 @@ namespace Pustok.DataAccess.Contexts;
 
 public class PustokDBContext:DbContext
 {
-    public PustokDBContext(DbContextOptions options):base(options)
+    public DbSet<Employee> Employees { get; set; }
+    public DbSet<Department> Departments { get; set; }
+    public PustokDBContext(DbContextOptions<PustokDBContext> options):base(options)
     {
         
     }
