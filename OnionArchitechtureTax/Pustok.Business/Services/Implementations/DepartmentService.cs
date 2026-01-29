@@ -17,12 +17,12 @@ public class DepartmentService : IDepartmentService
         _mapper = mapper;
     }
 
-    public async Task CreateAsync(DepartmentPostDTO dto)
+    public async Task<ResultDTO> CreateAsync(DepartmentPostDTO dto)
     {
         var department = _mapper.Map<Department>(dto);
         await _repository.AddAsync(department);
         await _repository.SaveAsync();
-
+        return new("Department Created");
     }
     public async Task<List<DepartmentGetDTO>> GetAllAsync()
     {
@@ -41,7 +41,7 @@ public class DepartmentService : IDepartmentService
         return departmentDTO;
     }
 
-    public async Task UpdateAsync(int id, DepartmentPutDTO dto)
+    public async Task<ResultDTO> UpdateAsync(int id, DepartmentPutDTO dto)
     {
         var department = await _repository.GetByIdAsync(id);
         if (department is null)
@@ -50,9 +50,10 @@ public class DepartmentService : IDepartmentService
         _mapper.Map(dto, department);
         _repository.Update(department);
         await _repository.SaveAsync();
+        return new("Department Updated");
     }
 
-    public async Task DeleteAsync(int id)
+    public async Task<ResultDTO> DeleteAsync(int id)
     {
         var department = await _repository.GetByIdAsync(id);
         if (department is null)
@@ -60,6 +61,7 @@ public class DepartmentService : IDepartmentService
 
          _repository.Delete(department);
         await _repository.SaveAsync();
+        return new("Department Deleted");
     }
 
 }

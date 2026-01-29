@@ -7,8 +7,8 @@ public interface IDepartmentService
     Task<List<DepartmentGetDTO>> GetAllAsync();
     Task<DepartmentGetDTO> GetByIdAsync(int id);
 
-    Task CreateAsync(DepartmentPostDTO dto);
-    Task UpdateAsync(int id, DepartmentPutDTO dto);
+    Task<ResultDTO> CreateAsync(DepartmentPostDTO dto);
+    Task<ResultDTO> UpdateAsync(int id, DepartmentPutDTO dto);
 
-    Task DeleteAsync(int id);
+    Task<ResultDTO> DeleteAsync(int id);
 }

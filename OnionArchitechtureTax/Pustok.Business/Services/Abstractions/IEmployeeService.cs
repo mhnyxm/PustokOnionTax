@@ -6,8 +6,8 @@ public interface IEmployeeService
 {
     Task<List<EmployeeGetDTO>> GetAllAsync();
     Task<EmployeeGetDTO> GetByIdAsync(int id);
-    Task CreateAsync(EmployeePostDTO dto);
-    Task UpdateAsync(int id, EmployeePutDTO dto);
-    Task DeleteAsync(int id);
+    Task<ResultDTO> CreateAsync(EmployeePostDTO dto);
+    Task<ResultDTO> UpdateAsync(int id, EmployeePutDTO dto);
+    Task<ResultDTO> DeleteAsync(int id);
 }
    

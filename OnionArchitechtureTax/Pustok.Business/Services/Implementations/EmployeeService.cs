@@ -17,11 +17,12 @@ public class EmployeeService : IEmployeeService
         _mapper = mapper;
     }
 
-    public async Task CreateAsync(EmployeePostDTO dto)
+    public async Task<ResultDTO> CreateAsync(EmployeePostDTO dto)
     {
         var employee = _mapper.Map<Employee>(dto);
         await _repository.AddAsync(employee);
         await _repository.SaveAsync();
+        return new("Employee Created");
 
     }
     public async Task<List<EmployeeGetDTO>> GetAllAsync()
@@ -41,7 +42,7 @@ public class EmployeeService : IEmployeeService
         return employeeDTO;
     }
 
-    public async Task UpdateAsync(int id, EmployeePutDTO dto)
+    public async Task<ResultDTO> UpdateAsync(int id, EmployeePutDTO dto)
     {
         var employee = await _repository.GetByIdAsync(id);
         if (employee is null)
@@ -50,9 +51,10 @@ public class EmployeeService : IEmployeeService
         _mapper.Map(dto, employee);
         _repository.Update(employee);
         await _repository.SaveAsync();
+        return new("Employee Update");
     }
 
-    public async Task DeleteAsync(int id)
+    public async Task<ResultDTO> DeleteAsync(int id)
     {
         var employee = await _repository.GetByIdAsync(id);
         if (employee is null)
@@ -60,6 +62,7 @@ public class EmployeeService : IEmployeeService
 
         _repository.Delete(employee);
         await _repository.SaveAsync();
+        return new("Employee Deleted");
     }
 
 }

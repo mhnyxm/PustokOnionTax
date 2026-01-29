@@ -33,21 +33,21 @@ public class DepartmentsController : ControllerBase
     [HttpPost]
     public async Task<IActionResult> Create([FromBody] DepartmentPostDTO dto)
     {
-        await _service.CreateAsync(dto);
-        return Ok();
+        var response = await _service.CreateAsync(dto);
+        return Ok(response);
     }
 
     [HttpPut("{id}")]
     public async Task<IActionResult> Update(int id, [FromBody] DepartmentPutDTO dto)
     {
-        await _service.UpdateAsync(id, dto);
-        return Ok();
+        var response = await _service.UpdateAsync(id, dto);
+        return Ok(response);
     }
 
     [HttpDelete]
-    public async Task<IActionResult> Delete([FromBody] DepartmentPostDTO dto)
+    public async Task<IActionResult> Delete(int id)
     {
-        await _service.CreateAsync(dto);
-        return Ok();
+        var response = await _service.DeleteAsync(id);
+        return Ok(response);
     }
 }

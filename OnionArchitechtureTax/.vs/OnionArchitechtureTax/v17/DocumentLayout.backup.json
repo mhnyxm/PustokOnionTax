@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.DataAccess\\Migrations\\20260129074424_DBCreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pustok.DataAccess\\Migrations\\20260129074424_DBCreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.DataAccess\\Migrations\\20260129095912_BaseAuditableEntityAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pustok.DataAccess\\Migrations\\20260129095912_BaseAuditableEntityAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C875BAE-344B-49B4-9D0D-C29732514DC2}|Pustok.DataAccess\\Pustok.DataAccess.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.dataaccess\\serviceregistrations\\dataaccessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C875BAE-344B-49B4-9D0D-C29732514DC2}|Pustok.DataAccess\\Pustok.DataAccess.csproj|solutionrelative:pustok.dataaccess\\serviceregistrations\\dataaccessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D330D4C-C3B7-4034-B480-871C6650D773}|Pustok.Core\\Pustok.Core.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D330D4C-C3B7-4034-B480-871C6650D773}|Pustok.Core\\Pustok.Core.csproj|solutionrelative:pustok.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C875BAE-344B-49B4-9D0D-C29732514DC2}|Pustok.DataAccess\\Pustok.DataAccess.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.dataaccess\\contexts\\pustokdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C875BAE-344B-49B4-9D0D-C29732514DC2}|Pustok.DataAccess\\Pustok.DataAccess.csproj|solutionrelative:pustok.dataaccess\\contexts\\pustokdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D330D4C-C3B7-4034-B480-871C6650D773}|Pustok.Core\\Pustok.Core.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.core\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D330D4C-C3B7-4034-B480-871C6650D773}|Pustok.Core\\Pustok.Core.csproj|solutionrelative:pustok.core\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B82C7D9-0DF0-4650-9FC0-4C38ECCEC6E7}|Pustok.Business\\Pustok.Business.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.business\\serviceregistrations\\businessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B82C7D9-0DF0-4650-9FC0-4C38ECCEC6E7}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\serviceregistrations\\businessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D330D4C-C3B7-4034-B480-871C6650D773}|Pustok.Core\\Pustok.Core.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D330D4C-C3B7-4034-B480-871C6650D773}|Pustok.Core\\Pustok.Core.csproj|solutionrelative:pustok.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D20AF30-759C-41FC-B5A9-2E56FC56DF68}|Pustok.Presentation\\Pustok.Presentation.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D20AF30-759C-41FC-B5A9-2E56FC56DF68}|Pustok.Presentation\\Pustok.Presentation.csproj|solutionrelative:pustok.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D20AF30-759C-41FC-B5A9-2E56FC56DF68}|Pustok.Presentation\\Pustok.Presentation.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.presentation\\middlewares\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D20AF30-759C-41FC-B5A9-2E56FC56DF68}|Pustok.Presentation\\Pustok.Presentation.csproj|solutionrelative:pustok.presentation\\middlewares\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B82C7D9-0DF0-4650-9FC0-4C38ECCEC6E7}|Pustok.Business\\Pustok.Business.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.business\\dtos\\result\\resultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B82C7D9-0DF0-4650-9FC0-4C38ECCEC6E7}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\dtos\\result\\resultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D20AF30-759C-41FC-B5A9-2E56FC56DF68}|Pustok.Presentation\\Pustok.Presentation.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.presentation\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,26 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0D20AF30-759C-41FC-B5A9-2E56FC56DF68}|Pustok.Presentation\\Pustok.Presentation.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.presentation\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D20AF30-759C-41FC-B5A9-2E56FC56DF68}|Pustok.Presentation\\Pustok.Presentation.csproj|solutionrelative:pustok.presentation\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D20AF30-759C-41FC-B5A9-2E56FC56DF68}|Pustok.Presentation\\Pustok.Presentation.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D20AF30-759C-41FC-B5A9-2E56FC56DF68}|Pustok.Presentation\\Pustok.Presentation.csproj|solutionrelative:pustok.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D20AF30-759C-41FC-B5A9-2E56FC56DF68}|Pustok.Presentation\\Pustok.Presentation.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.presentation\\pustok.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0D20AF30-759C-41FC-B5A9-2E56FC56DF68}|Pustok.Presentation\\Pustok.Presentation.csproj|solutionrelative:pustok.presentation\\pustok.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B82C7D9-0DF0-4650-9FC0-4C38ECCEC6E7}|Pustok.Business\\Pustok.Business.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.business\\pustok.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1B82C7D9-0DF0-4650-9FC0-4C38ECCEC6E7}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\pustok.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C875BAE-344B-49B4-9D0D-C29732514DC2}|Pustok.DataAccess\\Pustok.DataAccess.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.dataaccess\\pustok.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6C875BAE-344B-49B4-9D0D-C29732514DC2}|Pustok.DataAccess\\Pustok.DataAccess.csproj|solutionrelative:pustok.dataaccess\\pustok.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D20AF30-759C-41FC-B5A9-2E56FC56DF68}|Pustok.Presentation\\Pustok.Presentation.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0D20AF30-759C-41FC-B5A9-2E56FC56DF68}|Pustok.Presentation\\Pustok.Presentation.csproj|solutionrelative:pustok.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B82C7D9-0DF0-4650-9FC0-4C38ECCEC6E7}|Pustok.Business\\Pustok.Business.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.business\\services\\implementations\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,12 +55,44 @@
       "RelativeMoniker": "D:0:0:{1B82C7D9-0DF0-4650-9FC0-4C38ECCEC6E7}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\services\\abstractions\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B82C7D9-0DF0-4650-9FC0-4C38ECCEC6E7}|Pustok.Business\\Pustok.Business.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.business\\dtos\\employee\\employeeputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B82C7D9-0DF0-4650-9FC0-4C38ECCEC6E7}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\dtos\\employee\\employeeputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B82C7D9-0DF0-4650-9FC0-4C38ECCEC6E7}|Pustok.Business\\Pustok.Business.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.business\\serviceregistrations\\businessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B82C7D9-0DF0-4650-9FC0-4C38ECCEC6E7}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\serviceregistrations\\businessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C875BAE-344B-49B4-9D0D-C29732514DC2}|Pustok.DataAccess\\Pustok.DataAccess.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.dataaccess\\contexts\\pustokdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C875BAE-344B-49B4-9D0D-C29732514DC2}|Pustok.DataAccess\\Pustok.DataAccess.csproj|solutionrelative:pustok.dataaccess\\contexts\\pustokdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B82C7D9-0DF0-4650-9FC0-4C38ECCEC6E7}|Pustok.Business\\Pustok.Business.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.business\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B82C7D9-0DF0-4650-9FC0-4C38ECCEC6E7}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C875BAE-344B-49B4-9D0D-C29732514DC2}|Pustok.DataAccess\\Pustok.DataAccess.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.dataaccess\\migrations\\20260129074424_dbcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C875BAE-344B-49B4-9D0D-C29732514DC2}|Pustok.DataAccess\\Pustok.DataAccess.csproj|solutionrelative:pustok.dataaccess\\migrations\\20260129074424_dbcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C875BAE-344B-49B4-9D0D-C29732514DC2}|Pustok.DataAccess\\Pustok.DataAccess.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.dataaccess\\serviceregistrations\\dataaccessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C875BAE-344B-49B4-9D0D-C29732514DC2}|Pustok.DataAccess\\Pustok.DataAccess.csproj|solutionrelative:pustok.dataaccess\\serviceregistrations\\dataaccessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D20AF30-759C-41FC-B5A9-2E56FC56DF68}|Pustok.Presentation\\Pustok.Presentation.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.presentation\\pustok.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D20AF30-759C-41FC-B5A9-2E56FC56DF68}|Pustok.Presentation\\Pustok.Presentation.csproj|solutionrelative:pustok.presentation\\pustok.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B82C7D9-0DF0-4650-9FC0-4C38ECCEC6E7}|Pustok.Business\\Pustok.Business.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.business\\pustok.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B82C7D9-0DF0-4650-9FC0-4C38ECCEC6E7}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\pustok.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C875BAE-344B-49B4-9D0D-C29732514DC2}|Pustok.DataAccess\\Pustok.DataAccess.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.dataaccess\\pustok.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C875BAE-344B-49B4-9D0D-C29732514DC2}|Pustok.DataAccess\\Pustok.DataAccess.csproj|solutionrelative:pustok.dataaccess\\pustok.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D20AF30-759C-41FC-B5A9-2E56FC56DF68}|Pustok.Presentation\\Pustok.Presentation.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D20AF30-759C-41FC-B5A9-2E56FC56DF68}|Pustok.Presentation\\Pustok.Presentation.csproj|solutionrelative:pustok.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B82C7D9-0DF0-4650-9FC0-4C38ECCEC6E7}|Pustok.Business\\Pustok.Business.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.business\\dtos\\employee\\employeeputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B82C7D9-0DF0-4650-9FC0-4C38ECCEC6E7}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\dtos\\employee\\employeeputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C875BAE-344B-49B4-9D0D-C29732514DC2}|Pustok.DataAccess\\Pustok.DataAccess.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.dataaccess\\repositories\\implementations\\generic\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -95,14 +119,6 @@
       "RelativeMoniker": "D:0:0:{1B82C7D9-0DF0-4650-9FC0-4C38ECCEC6E7}|Pustok.Business\\Pustok.Business.csproj|solutionrelative:pustok.business\\dtos\\employee\\employeegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D330D4C-C3B7-4034-B480-871C6650D773}|Pustok.Core\\Pustok.Core.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.core\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D330D4C-C3B7-4034-B480-871C6650D773}|Pustok.Core\\Pustok.Core.csproj|solutionrelative:pustok.core\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D330D4C-C3B7-4034-B480-871C6650D773}|Pustok.Core\\Pustok.Core.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D330D4C-C3B7-4034-B480-871C6650D773}|Pustok.Core\\Pustok.Core.csproj|solutionrelative:pustok.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6C875BAE-344B-49B4-9D0D-C29732514DC2}|Pustok.DataAccess\\Pustok.DataAccess.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.dataaccess\\repositories\\implementations\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C875BAE-344B-49B4-9D0D-C29732514DC2}|Pustok.DataAccess\\Pustok.DataAccess.csproj|solutionrelative:pustok.dataaccess\\repositories\\implementations\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -117,10 +133,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6C875BAE-344B-49B4-9D0D-C29732514DC2}|Pustok.DataAccess\\Pustok.DataAccess.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.dataaccess\\repositories\\abstractions\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C875BAE-344B-49B4-9D0D-C29732514DC2}|Pustok.DataAccess\\Pustok.DataAccess.csproj|solutionrelative:pustok.dataaccess\\repositories\\abstractions\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D330D4C-C3B7-4034-B480-871C6650D773}|Pustok.Core\\Pustok.Core.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D330D4C-C3B7-4034-B480-871C6650D773}|Pustok.Core\\Pustok.Core.csproj|solutionrelative:pustok.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C875BAE-344B-49B4-9D0D-C29732514DC2}|Pustok.DataAccess\\Pustok.DataAccess.csproj|c:\\users\\user\\desktop\\themostspecialseriesformexin\\pustoktax\\onionarchitechturetax\\pustok.dataaccess\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -167,6 +179,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20260129095912_BaseAuditableEntityAdded.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.DataAccess\\Migrations\\20260129095912_BaseAuditableEntityAdded.cs",
+              "RelativeDocumentMoniker": "Pustok.DataAccess\\Migrations\\20260129095912_BaseAuditableEntityAdded.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.DataAccess\\Migrations\\20260129095912_BaseAuditableEntityAdded.cs",
+              "RelativeToolTip": "Pustok.DataAccess\\Migrations\\20260129095912_BaseAuditableEntityAdded.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T09:59:12.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Presentation\\Middlewares\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "Pustok.Presentation\\Middlewares\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Presentation\\Middlewares\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "Pustok.Presentation\\Middlewares\\GlobalExceptionHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T09:48:01.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResultDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Business\\DTOs\\Result\\ResultDTO.cs",
+              "RelativeDocumentMoniker": "Pustok.Business\\DTOs\\Result\\ResultDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Business\\DTOs\\Result\\ResultDTO.cs",
+              "RelativeToolTip": "Pustok.Business\\DTOs\\Result\\ResultDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T08:23:45.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "20260129074424_DBCreated.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.DataAccess\\Migrations\\20260129074424_DBCreated.cs",
               "RelativeDocumentMoniker": "Pustok.DataAccess\\Migrations\\20260129074424_DBCreated.cs",
@@ -179,59 +230,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Pustok.Presentation",
+              "DocumentIndex": 18,
+              "Title": "Pustok.Presentation.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Presentation\\Pustok.Presentation.csproj",
               "RelativeDocumentMoniker": "Pustok.Presentation\\Pustok.Presentation.csproj",
               "ToolTip": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Presentation\\Pustok.Presentation.csproj",
               "RelativeToolTip": "Pustok.Presentation\\Pustok.Presentation.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-29T07:38:37.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T07:38:37.002Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Pustok.DataAccess",
+              "DocumentIndex": 20,
+              "Title": "Pustok.DataAccess.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.DataAccess\\Pustok.DataAccess.csproj",
               "RelativeDocumentMoniker": "Pustok.DataAccess\\Pustok.DataAccess.csproj",
               "ToolTip": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.DataAccess\\Pustok.DataAccess.csproj",
               "RelativeToolTip": "Pustok.DataAccess\\Pustok.DataAccess.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-29T07:38:30.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T07:38:30.662Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "EmployeesController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Presentation\\Controllers\\EmployeesController.cs",
               "RelativeDocumentMoniker": "Pustok.Presentation\\Controllers\\EmployeesController.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Presentation\\Controllers\\EmployeesController.cs",
               "RelativeToolTip": "Pustok.Presentation\\Controllers\\EmployeesController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACIAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-29T06:58:09.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "DepartmentsController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Presentation\\Controllers\\DepartmentsController.cs",
               "RelativeDocumentMoniker": "Pustok.Presentation\\Controllers\\DepartmentsController.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Presentation\\Controllers\\DepartmentsController.cs",
               "RelativeToolTip": "Pustok.Presentation\\Controllers\\DepartmentsController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwCgAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-29T06:57:57.569Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "NotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Business\\Exceptions\\NotFoundException.cs",
               "RelativeDocumentMoniker": "Pustok.Business\\Exceptions\\NotFoundException.cs",
@@ -244,33 +293,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "DepartmentService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Business\\Services\\Implementations\\DepartmentService.cs",
               "RelativeDocumentMoniker": "Pustok.Business\\Services\\Implementations\\DepartmentService.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Business\\Services\\Implementations\\DepartmentService.cs",
               "RelativeToolTip": "Pustok.Business\\Services\\Implementations\\DepartmentService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwD8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-29T06:40:14.401Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "IDepartmentService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Business\\Services\\Abstractions\\IDepartmentService.cs",
               "RelativeDocumentMoniker": "Pustok.Business\\Services\\Abstractions\\IDepartmentService.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Business\\Services\\Abstractions\\IDepartmentService.cs",
               "RelativeToolTip": "Pustok.Business\\Services\\Abstractions\\IDepartmentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-29T06:39:36.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "DepartmentProfile.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Business\\Profiles\\DepartmentProfile.cs",
               "RelativeDocumentMoniker": "Pustok.Business\\Profiles\\DepartmentProfile.cs",
@@ -278,12 +327,11 @@
               "RelativeToolTip": "Pustok.Business\\Profiles\\DepartmentProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T06:31:41.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T06:31:41.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "DepartmentGetDTO.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Business\\DTOs\\Department\\DepartmentGetDTO.cs",
               "RelativeDocumentMoniker": "Pustok.Business\\DTOs\\Department\\DepartmentGetDTO.cs",
@@ -291,12 +339,11 @@
               "RelativeToolTip": "Pustok.Business\\DTOs\\Department\\DepartmentGetDTO.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAuwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T06:29:41.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T06:29:41.937Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "EmployeePutDTO.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Business\\DTOs\\Employee\\EmployeePutDTO.cs",
               "RelativeDocumentMoniker": "Pustok.Business\\DTOs\\Employee\\EmployeePutDTO.cs",
@@ -304,12 +351,11 @@
               "RelativeToolTip": "Pustok.Business\\DTOs\\Employee\\EmployeePutDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T06:29:23.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T06:29:23.75Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "EmployeePostDTO.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Business\\DTOs\\Employee\\EmployeePostDTO.cs",
               "RelativeDocumentMoniker": "Pustok.Business\\DTOs\\Employee\\EmployeePostDTO.cs",
@@ -317,12 +363,11 @@
               "RelativeToolTip": "Pustok.Business\\DTOs\\Employee\\EmployeePostDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T06:29:22.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T06:29:22.977Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "EmployeeGetDTO.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Business\\DTOs\\Employee\\EmployeeGetDTO.cs",
               "RelativeDocumentMoniker": "Pustok.Business\\DTOs\\Employee\\EmployeeGetDTO.cs",
@@ -330,38 +375,37 @@
               "RelativeToolTip": "Pustok.Business\\DTOs\\Employee\\EmployeeGetDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T06:28:06.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T06:28:06.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "IEmployeeService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Business\\Services\\Abstractions\\IEmployeeService.cs",
               "RelativeDocumentMoniker": "Pustok.Business\\Services\\Abstractions\\IEmployeeService.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Business\\Services\\Abstractions\\IEmployeeService.cs",
               "RelativeToolTip": "Pustok.Business\\Services\\Abstractions\\IEmployeeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-29T06:25:02.123Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "EmployeeService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Business\\Services\\Implementations\\EmployeeService.cs",
               "RelativeDocumentMoniker": "Pustok.Business\\Services\\Implementations\\EmployeeService.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Business\\Services\\Implementations\\EmployeeService.cs",
               "RelativeToolTip": "Pustok.Business\\Services\\Implementations\\EmployeeService.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwDgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-29T06:24:45.464Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "DepartmentRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.DataAccess\\Repositories\\Implementations\\DepartmentRepository.cs",
               "RelativeDocumentMoniker": "Pustok.DataAccess\\Repositories\\Implementations\\DepartmentRepository.cs",
@@ -369,12 +413,11 @@
               "RelativeToolTip": "Pustok.DataAccess\\Repositories\\Implementations\\DepartmentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T06:21:21.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T06:21:21.715Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "IEmployeeRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.DataAccess\\Repositories\\Abstractions\\IEmployeeRepository.cs",
               "RelativeDocumentMoniker": "Pustok.DataAccess\\Repositories\\Abstractions\\IEmployeeRepository.cs",
@@ -382,12 +425,11 @@
               "RelativeToolTip": "Pustok.DataAccess\\Repositories\\Abstractions\\IEmployeeRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T06:17:00.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T06:17:00.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "EmployeeRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.DataAccess\\Repositories\\Implementations\\EmployeeRepository.cs",
               "RelativeDocumentMoniker": "Pustok.DataAccess\\Repositories\\Implementations\\EmployeeRepository.cs",
@@ -395,25 +437,24 @@
               "RelativeToolTip": "Pustok.DataAccess\\Repositories\\Implementations\\EmployeeRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T06:16:55.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T06:16:55.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 3,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Core\\Entities\\Employee.cs",
               "RelativeDocumentMoniker": "Pustok.Core\\Entities\\Employee.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Core\\Entities\\Employee.cs",
               "RelativeToolTip": "Pustok.Core\\Entities\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-29T06:16:10.539Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "IDepartmentRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.DataAccess\\Repositories\\Abstractions\\IDepartmentRepository.cs",
               "RelativeDocumentMoniker": "Pustok.DataAccess\\Repositories\\Abstractions\\IDepartmentRepository.cs",
@@ -421,12 +462,11 @@
               "RelativeToolTip": "Pustok.DataAccess\\Repositories\\Abstractions\\IDepartmentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T06:15:28.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T06:15:28.586Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "EmployeeConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.DataAccess\\Configurations\\EmployeeConfiguration.cs",
               "RelativeDocumentMoniker": "Pustok.DataAccess\\Configurations\\EmployeeConfiguration.cs",
@@ -434,12 +474,11 @@
               "RelativeToolTip": "Pustok.DataAccess\\Configurations\\EmployeeConfiguration.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T06:13:00.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T06:13:00.075Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "DepartmentConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.DataAccess\\Configurations\\DepartmentConfiguration.cs",
               "RelativeDocumentMoniker": "Pustok.DataAccess\\Configurations\\DepartmentConfiguration.cs",
@@ -447,25 +486,24 @@
               "RelativeToolTip": "Pustok.DataAccess\\Configurations\\DepartmentConfiguration.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAuwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T06:11:51.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T06:11:51.051Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 2,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Core\\Entities\\Department.cs",
               "RelativeDocumentMoniker": "Pustok.Core\\Entities\\Department.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Core\\Entities\\Department.cs",
               "RelativeToolTip": "Pustok.Core\\Entities\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-29T06:10:23.198Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "BusinessServiceRegistration.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Business\\ServiceRegistrations\\BusinessServiceRegistration.cs",
               "RelativeDocumentMoniker": "Pustok.Business\\ServiceRegistrations\\BusinessServiceRegistration.cs",
@@ -478,7 +516,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "Pustok.Business.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Business\\Pustok.Business.csproj",
               "RelativeDocumentMoniker": "Pustok.Business\\Pustok.Business.csproj",
@@ -486,12 +524,11 @@
               "RelativeToolTip": "Pustok.Business\\Pustok.Business.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-28T12:17:45.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T12:17:45.967Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Presentation\\appsettings.json",
               "RelativeDocumentMoniker": "Pustok.Presentation\\appsettings.json",
@@ -499,25 +536,24 @@
               "RelativeToolTip": "Pustok.Presentation\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-28T07:28:04.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T07:28:04.621Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Presentation\\Program.cs",
               "RelativeDocumentMoniker": "Pustok.Presentation\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Presentation\\Program.cs",
               "RelativeToolTip": "Pustok.Presentation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T07:25:57.785Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.DataAccess\\Repositories\\Implementations\\Generic\\Repository.cs",
               "RelativeDocumentMoniker": "Pustok.DataAccess\\Repositories\\Implementations\\Generic\\Repository.cs",
@@ -525,12 +561,11 @@
               "RelativeToolTip": "Pustok.DataAccess\\Repositories\\Implementations\\Generic\\Repository.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAMwBYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T07:24:55.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T07:24:55.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.DataAccess\\Repositories\\Abstractions\\Generic\\IRepository.cs",
               "RelativeDocumentMoniker": "Pustok.DataAccess\\Repositories\\Abstractions\\Generic\\IRepository.cs",
@@ -538,12 +573,11 @@
               "RelativeToolTip": "Pustok.DataAccess\\Repositories\\Abstractions\\Generic\\IRepository.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAuwA0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T07:23:51.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T07:23:51.755Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 17,
               "Title": "DataAccessServiceRegistration.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.DataAccess\\ServiceRegistrations\\DataAccessServiceRegistration.cs",
               "RelativeDocumentMoniker": "Pustok.DataAccess\\ServiceRegistrations\\DataAccessServiceRegistration.cs",
@@ -551,31 +585,30 @@
               "RelativeToolTip": "Pustok.DataAccess\\ServiceRegistrations\\DataAccessServiceRegistration.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAAAsAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T07:22:17.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T07:22:17.3Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
               "Title": "PustokDBContext.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.DataAccess\\Contexts\\PustokDBContext.cs",
               "RelativeDocumentMoniker": "Pustok.DataAccess\\Contexts\\PustokDBContext.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.DataAccess\\Contexts\\PustokDBContext.cs",
               "RelativeToolTip": "Pustok.DataAccess\\Contexts\\PustokDBContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBcAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBQAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T07:04:33.388Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 1,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Core\\Entities\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Pustok.Core\\Entities\\Common\\BaseEntity.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\TheMOSTSpecialSeriesForMexin\\PustokTax\\OnionArchitechtureTax\\Pustok.Core\\Entities\\Common\\BaseEntity.cs",
               "RelativeToolTip": "Pustok.Core\\Entities\\Common\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T06:16:55.013Z",
               "EditorCaption": ""

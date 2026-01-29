@@ -2,7 +2,7 @@
 
 namespace Pustok.Core.Entities;
 
-public class Department:BaseEntity
+public class Department:BaseAuditableEntity
 {
     public string Name { get; set; }        
     public string Description { get; set; }

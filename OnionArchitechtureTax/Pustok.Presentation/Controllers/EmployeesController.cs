@@ -44,9 +44,9 @@ public class EmployeesController : ControllerBase
     }
 
     [HttpDelete]
-    public async Task<IActionResult> Delete([FromBody] EmployeePostDTO dto)
+    public async Task<IActionResult> Delete(int id)
     {
-        await _service.CreateAsync(dto);
+        await _service.DeleteAsync(id);
         return Ok();
     }
 }
